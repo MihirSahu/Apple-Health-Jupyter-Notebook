@@ -1,0 +1,5 @@
+*.zip
+*.png
+apple_health_export/
+.DS_Store
+.ipynb_checkpoints/
